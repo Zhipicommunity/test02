@@ -73,7 +73,7 @@ DATABASES = {
         'HOST': 'sh-cynosdbmysql-grp-3fvy2w4a.sql.tencentcdb.com',
         'PORT': '20225',
         'PASSWORD': '6tQdCZgKR86jURz',
-        'OPTIONS': {'charset': 'utf8mb4'},
+        'OPTIONS': {'charset': 'utf8'},
     }
 }
 
